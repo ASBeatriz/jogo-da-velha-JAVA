@@ -1,7 +1,3 @@
-//adicionar try-catch -- OK
-//ver como o prof verifica vitoria
-// testar -- OK
-
 import java.util.Random;
 import java.util.Scanner;
 
